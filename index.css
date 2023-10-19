@@ -80,4 +80,13 @@ p a:hover{
 h3 a:hover{
      color: green;
 }
+faculdade{
+     color: white;
+     background-color: black;
+     font-family: Arrial Arial, Helvetica, sans-serif;
+}
+
+body p{
+     font-family: 'Times New Roman', Times, serif
+     margin: 30px;
 }
