@@ -1,6 +1,6 @@
 body{
      color: white;
-     background-color: black;
+     background-color:black;
      font-family: Arrial Arial, Helvetica, sans-serif;
 }
 
@@ -87,6 +87,6 @@ faculdade{
 }
 
 body p{
-     font-family: 'Times New Roman', Times, serif
-     margin: 30px;
+     font-family: Arrial Arial, Helvetica, sans-serif;
+     margin: 5px;
 }
